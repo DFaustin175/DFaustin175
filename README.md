@@ -2,7 +2,7 @@
 - 🌱 I’m currently looking for Back-End Software and Game Development positions!
 - 📫 How to reach me deefaustin175@outlook.com
 
-My Website https://dfaustin175.github.io/DeePortfolio/
+My Website https://deefaustin.netlify.app/
 
 <!---
 DFaustin175/DFaustin175 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
