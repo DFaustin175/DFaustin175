@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DFaustin175
+- 👋 Hi, I’m Deemanuel Faustin
 - 🌱 I’m currently looking for Back-End Software and Game Development positions!
 - 📫 How to reach me deefaustin175@outlook.com
 
